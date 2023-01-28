@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/vipulgaikwad12" target="blank"><img src="https://img.shields.io/twitter/follow/vipulgaikwad12?logo=twitter&style=for-the-badge" alt="vipulgaikwad12" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **MERN**
 
