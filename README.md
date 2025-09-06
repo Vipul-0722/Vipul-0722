@@ -9,9 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/vipulgaikwad12" target="blank"><img src="https://img.shields.io/twitter/follow/vipulgaikwad12?logo=twitter&style=for-the-badge" alt="vipulgaikwad12" /></a> </p>
 
-- 🌱 I’m currently learning **DEVOPS**
-
-- 💬 Ask me about MERN | React Native | TypeScript | NextJS | AWS 
+- 💬 Ask me about Kubernetes | Docker | AWS | MERN | React Native | TypeScript | NextJS 
 
 - 📫 How to reach me **gaikwadvipul196@gmail.com**
 
